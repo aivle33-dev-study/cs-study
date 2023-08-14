@@ -1,6 +1,26 @@
-# official-docs
-스터디 공식 문서 Repository 입니다
+# 개발자 CS 스터디
 
+[![Since](https://img.shields.io/badge/since-2023.08.18-333333.svg)](https://github.com/aivle33-dev-study/cs-study)
+[![LICENSE](https://img.shields.io/github/license/aivle33-dev-study/cs-study)](https://github.com/devSquad-study/2023-CS-Study/blob/main/LICENSE.md/)
+
+<br>
+
+## 스터디 목표
+
+- 기술 면접을 위한 CS 공부
+- 스스로 학습한 내용을 타인에게 간결하고 명확하게 전달할 수 있는 역량 기르기
+- 꾸준히 자기 개발하는 습관 들이기
+- 깃허브와 문서 작성에 익숙해지기
+
+<br>
+
+## 스터디 멤버
+
+| [![Image](https://github.com/dev-loggi.png?size=200)](https://github.com/dev-loggi) | [![Image](https://github.com/Hyunggul.png?size=200)](https://github.com/Hyunggul.png) |
+|:-----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
+|                                         성록                                          |                                          형길                                           |
+
+<br>
 
 ## License
 ```html
