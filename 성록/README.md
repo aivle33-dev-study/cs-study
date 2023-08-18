@@ -1,0 +1,3 @@
+# [성록] Computer Science Documentations
+
+1. [컴퓨터구조 & 운영체제](01_컴퓨터구조_운영체제)
