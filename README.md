@@ -1,7 +1,13 @@
-# 개발자 CS 스터디
+# 신입 개발자 CS 스터디
 
 [![Since](https://img.shields.io/badge/since-2023.08.21-333333.svg)](https://github.com/aivle33-dev-study/cs-study)
 [![LICENSE](https://img.shields.io/github/license/aivle33-dev-study/cs-study)](https://github.com/devSquad-study/2023-CS-Study/blob/main/LICENSE.md/)
+
+소통과 협업 그리고 자기주도학습을 중요시하는 KT 에이블러들의 CS 스터디 모임 공간입니다.
+
+컴퓨터 과학 기본기를 탄탄하게 갖춘 개발자가 되기 위해 꾸준히 노력합니다.
+
+스터디 진행 방식에 대한 세부 내용은 [📋 Wiki](https://github.com/aivle33-dev-study/cs-study/wiki) 페이지를 확인해주세요.
 
 <br>
 
@@ -18,7 +24,8 @@
 ## 스터디 목표
 
 - 기술 면접을 위한 CS 공부
-- 스스로 학습한 내용을 타인에게 간결하고 명확하게 전달할 수 있는 역량 기르기
+- 알고 있는 내용을 타인에게 간결하고 명확하게 전달하는 능력 기르기⭐ (elevator speech)
+- 기술 토론을 통해 죽은 지식이 아닌 살아있는 지식으로 만들기
 - 꾸준히 자기 개발하는 습관 들이기
 - 깃허브와 문서 작성에 익숙해지기
 
