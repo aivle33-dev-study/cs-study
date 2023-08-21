@@ -1,6 +1,6 @@
 # 개발자 CS 스터디
 
-[![Since](https://img.shields.io/badge/since-2023.08.18-333333.svg)](https://github.com/aivle33-dev-study/cs-study)
+[![Since](https://img.shields.io/badge/since-2023.08.21-333333.svg)](https://github.com/aivle33-dev-study/cs-study)
 [![LICENSE](https://img.shields.io/github/license/aivle33-dev-study/cs-study)](https://github.com/devSquad-study/2023-CS-Study/blob/main/LICENSE.md/)
 
 <br>
@@ -26,9 +26,9 @@
 
 ## 스터디 멤버
 
-| [![Image](https://github.com/dev-loggi.png?size=200)](https://github.com/dev-loggi) | [![Image](https://github.com/Hyunggul.png?size=200)](https://github.com/Hyunggul.png) |
-|:-----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
-|                                         성록                                          |                                          형길                                           |
+| [![Image](https://github.com/dev-loggi.png)](https://github.com/dev-loggi) | [![Image](https://github.com/Hyunggul.png)](https://github.com/Hyunggul) | [![Image](https://github.com/Jihwan98.png)](https://github.com/Jihwan98) | [![Image](https://github.com/yeeunp.png)](https://github.com/yeeunp) | [![Image](https://github.com/Sunny14578.png)](https://github.com/Sunny14578) | 
+|:--------------------------------------------------------------------------:|:------------------------------------------------------------------------:|:------------------------------------------------------------------------:|:--------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
+|                                     성록                                     |                                    형길                                    |                                    지환                                    |                                  예은                                  |                                      태양                                      |
 
 <br>
 
