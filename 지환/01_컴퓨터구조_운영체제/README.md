@@ -6,3 +6,4 @@
 - [Chapter 02. 데이터](02_데이터.md)
 - [Chapter 03. 명령어](03_명령어.md)
 - [Chapter 04. CPU의 작동 원리](04_CPU의_작동_원리.md)
+- [Chapter 05. CPU 성능 향상 기법](05_CPU_성능_향상_기법.md)
