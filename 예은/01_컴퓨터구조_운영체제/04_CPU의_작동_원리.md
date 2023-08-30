@@ -16,7 +16,7 @@
 
 ### ● ALU
 
-<--- ALU가 어떤 정보를 받아들이고, 내보내는지 표현한 img--->
+![ch4_ALU](https://github.com/aivle33-dev-study/cs-study/assets/90406411/4e1f05b0-a61a-43e5-a1d9-80d8b233892f)
 
 - ALU가 받아들이는 정보
     - 레지스터 : **피연산자**를 받아들임
@@ -47,7 +47,7 @@
 - 제어장치 : 제어 신호를 내보내고, 명령어를 해석하는 부품
 - 제어 신호 : 컴퓨터 부품들을 관리하고 작동시키기 위한 일종의 전기 신호
 
-<--- 제어장치가 어떤 정보를 받아들이고, 내보내는지 표현한 img --->
+![ch4_CU](https://github.com/aivle33-dev-study/cs-study/assets/90406411/aa98fafc-20cf-4633-970a-d98e3d8c3a0b)
 
 - 제어장치가 받아들이는 정보
     - **클럭**(clock) 신호 : 모든 부품을 움직일 수 있게 하는 시간 단위
@@ -177,7 +177,7 @@
     → 이를 **인터럽트**라고 함
     
 &nbsp;
-### ● 명령어 사이클
+### ● 명령어 사이클 (instruction cycle)
 
 > 프로그램 속 명령어들이 일정한 주기가 반복되며 실행되는 것
 
@@ -257,4 +257,4 @@
 - CPU가 인터럽트를 처리한다
 - 인터럽트 서비스 루틴을 실행하고, 본래 수행하던 작업으로 다시 되돌아온다!
 
-<--- 명령어 사이클 img --->
+![ch4_instruction_cycle](https://github.com/aivle33-dev-study/cs-study/assets/90406411/eb8de8f4-ea0c-4bc5-b84a-0754f0b520e0)
