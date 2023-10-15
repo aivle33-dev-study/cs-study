@@ -7,7 +7,7 @@
 
 컴퓨터 과학 기본기를 탄탄하게 갖춘 개발자가 되기 위해 꾸준히 노력합니다.
 
-스터디 진행 방식에 대한 세부 내용은 [📋 Wiki](https://github.com/aivle33-dev-study/cs-study/wiki) 페이지를 확인해주세요.
+스터디 진행 방식에 대한 세부 내용은 **[📋 Wiki](https://github.com/aivle33-dev-study/cs-study/wiki)** 페이지를 확인해주세요.
 
 <br>
 
@@ -31,11 +31,29 @@
 
 <br>
 
+<br>
+
+## 스터디 일정
+
+> 각 분야 별 세부 스터디 계획표는 위키 페이지의 **[📅 Weekly Plan](https://github.com/aivle33-dev-study/cs-study/wiki/4.-Weekly-Plan)** 에서 확인할 수 있습니다.
+
+- (2023.08.21 ~ 2023.10.12)&nbsp; 컴퓨터구조 & 운영체제 스터디
+- (2023.10.20 ~ ing)&nbsp; 네트워크 스터디
+
+<br>
+
 ## 스터디 멤버
 
-| [![Image](https://github.com/dev-loggi.png)](https://github.com/dev-loggi) | [![Image](https://github.com/Hyunggul.png)](https://github.com/Hyunggul) | [![Image](https://github.com/Jihwan98.png)](https://github.com/Jihwan98) | [![Image](https://github.com/yeeunp.png)](https://github.com/yeeunp) | [![Image](https://github.com/Sunny14578.png)](https://github.com/Sunny14578) | 
+### 컴퓨터구조 & 운영체제 스터디 멤버
+
+| [![Image](https://github.com/dev-loggi.png?size=150)](https://github.com/dev-loggi) | [![Image](https://github.com/Hyunggul.png?size=150)](https://github.com/Hyunggul) | [![Image](https://github.com/Jihwan98.png?size=150)](https://github.com/Jihwan98) | <a href="https://github.com/yeeunp"><img src="https://github.com/yeeunp.png" width="150px"></img></a> | [![Image](https://github.com/Sunny14578.png?size=150)](https://github.com/Sunny14578) | 
 |:--------------------------------------------------------------------------:|:------------------------------------------------------------------------:|:------------------------------------------------------------------------:|:--------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
 |                                     성록                                     |                                    형길                                    |                                    지환                                    |                                  예은                                  |                                      태양                                      |
+
+### 네트워크 스터디 멤버
+| [![Image](https://github.com/dev-loggi.png?size=150)](https://github.com/dev-loggi) | <a href="https://github.com/yeeunp"><img src="https://github.com/yeeunp.png" width="150px"></img></a> | [![Image](https://github.com/Sunny14578.png?size=150)](https://github.com/Sunny14578) | 
+|:--------------------------------------------------------------------------:|:--------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
+|                                     성록                                     |                                  예은                                  |                                      태양                                      |
 
 <br>
 
