@@ -46,12 +46,12 @@
 
 ### 컴퓨터구조 & 운영체제 스터디 멤버
 
-| [![Image](https://github.com/dev-loggi.png?size=150)](https://github.com/dev-loggi) | [![Image](https://github.com/Hyunggul.png?size=150)](https://github.com/Hyunggul) | [![Image](https://github.com/Jihwan98.png?size=150)](https://github.com/Jihwan98) | <a href="https://github.com/yeeunp"><img src="https://github.com/yeeunp.png" width="150px"></img></a> | [![Image](https://github.com/Sunny14578.png?size=150)](https://github.com/Sunny14578) | 
+| [![Image](https://github.com/dev-loggi.png?size=120)](https://github.com/dev-loggi) | [![Image](https://github.com/Hyunggul.png?size=120)](https://github.com/Hyunggul) | [![Image](https://github.com/Jihwan98.png?size=120)](https://github.com/Jihwan98) | <a href="https://github.com/yeeunp"><img src="https://github.com/yeeunp.png" width="120px"></img></a> | [![Image](https://github.com/Sunny14578.png?size=120)](https://github.com/Sunny14578) | 
 |:--------------------------------------------------------------------------:|:------------------------------------------------------------------------:|:------------------------------------------------------------------------:|:--------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
 |                                     성록                                     |                                    형길                                    |                                    지환                                    |                                  예은                                  |                                      태양                                      |
 
 ### 네트워크 스터디 멤버
-| [![Image](https://github.com/dev-loggi.png?size=150)](https://github.com/dev-loggi) | <a href="https://github.com/yeeunp"><img src="https://github.com/yeeunp.png" width="150px"></img></a> | [![Image](https://github.com/Sunny14578.png?size=150)](https://github.com/Sunny14578) | 
+| [![Image](https://github.com/dev-loggi.png?size=120)](https://github.com/dev-loggi) | <a href="https://github.com/yeeunp"><img src="https://github.com/yeeunp.png" width="120px"></img></a> | [![Image](https://github.com/Sunny14578.png?size=120)](https://github.com/Sunny14578) | 
 |:--------------------------------------------------------------------------:|:--------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
 |                                     성록                                     |                                  예은                                  |                                      태양                                      |
 
